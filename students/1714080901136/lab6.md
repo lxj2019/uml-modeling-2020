@@ -41,7 +41,7 @@
 
 ## 实验结果
 
-![修改用户密码顺序图](./Lab6_SequenceDiagram1.png)  
+![修改用户密码顺序图](./Lab6_SequenceDiagram1.jpg)  
 图1：修改用户密码顺序图
 
 ![查询上网记录顺序图](./Lab6_SequenceDiagram2.jpg)  
